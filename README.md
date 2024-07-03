@@ -23,6 +23,6 @@ Before you begin, ensure you have met the following requirements:
 To install micro-time, clone the repository and build the project:
 
 ```bash
-git clone https://github.com/ezekielmitchell/micro-time.git
+git clone git@github.com:ezekielmitchell/micro-date.git
 cd micro-time
 cargo build --release
